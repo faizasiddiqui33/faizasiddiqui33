@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Faiza Siddiqui</h1>
+<h1 align="center">Hi 👋 I'm Faiza Siddiqui</h1>
 <h3 align="center">A passionate data outstanding data professional with M.Sc. Computer Science (Data Science) Degree from Canada with 7 years of proven experience in Software Quality Assurance and a dedicated interest in Data Science</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/b8245420aaaad501f66af5ac0ea7df2d.gif">
