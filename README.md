@@ -1,4 +1,10 @@
-![MasterHead](https://trisya.com/myimg/child/soft_devlop.gif)
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif" alt="MasterHead" width="600" length="1000">
+</p>
+
+
+
 <h1 align="center">Hi 👋 I'm Faiza Siddiqui</h1>
 <h3 align="center">A passionate data outstanding data professional with M.Sc. Computer Science (Data Science) Degree from Canada with 7 years of proven experience in Software Quality Assurance and a dedicated interest in Data Science</h3>
 
