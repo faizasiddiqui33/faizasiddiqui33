@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋 I'm Faiza Siddiqui</h1>
-<h3 align="center">A passionate data professional with M.Sc. Computer Science (Data Science) Degree with 7 years of proven experience in Software Quality Assurance, Data Science & Data Analysis </h3>
+<h3 align="center">Highly motivated and outstanding Data Scientist recently graduated from University of Regina with 7 years of proven experience in Software & Data Quality Assurance, Data Science & Data Analysis </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/b8245420aaaad501f66af5ac0ea7df2d.gif">
 
